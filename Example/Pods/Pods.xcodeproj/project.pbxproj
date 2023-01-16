@@ -43,7 +43,7 @@
 /* Begin PBXFileReference section */
 		0048EB18AB5BCA169AC8088C90A5B1F8 /* Pods-FlexibleSteppedProgressBar_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FlexibleSteppedProgressBar_Tests-umbrella.h"; sourceTree = "<group>"; };
 		0FF29AD1C154A25E9EA618D18BF2B3AC /* Pods-FlexibleSteppedProgressBar_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-FlexibleSteppedProgressBar_Tests-dummy.m"; sourceTree = "<group>"; };
-		114FF158AD91A9968AFFCBF01830B2E8 /* FlexibleSteppedProgressBar */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FlexibleSteppedProgressBar; path = FlexibleSteppedProgressBar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		114FF158AD91A9968AFFCBF01830B2E8 /* FlexibleSteppedProgressBar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FlexibleSteppedProgressBar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		143BEA9F7E276AD8E2D1A17B29DEBCE0 /* Pods-FlexibleSteppedProgressBar_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FlexibleSteppedProgressBar_Example-Info.plist"; sourceTree = "<group>"; };
 		14EEFBE21E69DF30E9D929C0CC88B98A /* FlexibleSteppedProgressBar.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FlexibleSteppedProgressBar.debug.xcconfig; sourceTree = "<group>"; };
 		1945129B95963DDB4164753A0DC970BF /* Pods-FlexibleSteppedProgressBar_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FlexibleSteppedProgressBar_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -57,19 +57,19 @@
 		7578F992E57AE934433290A9FB66204C /* Pods-FlexibleSteppedProgressBar_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FlexibleSteppedProgressBar_Tests-Info.plist"; sourceTree = "<group>"; };
 		783696B1C3A93B5CDF6F1B0213812644 /* FlexibleSteppedProgressBar.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FlexibleSteppedProgressBar.swift; path = FlexibleSteppedProgressBar/Classes/FlexibleSteppedProgressBar.swift; sourceTree = "<group>"; };
 		78622101E1E16C31FDB4CB7E5B48D56D /* Pods-FlexibleSteppedProgressBar_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FlexibleSteppedProgressBar_Example.release.xcconfig"; sourceTree = "<group>"; };
-		78ACCA9E078FB45C9C1EB7A5C8984CC6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		78ACCA9E078FB45C9C1EB7A5C8984CC6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		81E87FC0FB1FF5272D9120AABDB1B145 /* Pods-FlexibleSteppedProgressBar_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FlexibleSteppedProgressBar_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		8C1B0BFF0FABB740B8E11D8F1E47082B /* FSPBTextLayerExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FSPBTextLayerExtension.swift; path = FlexibleSteppedProgressBar/Classes/FSPBTextLayerExtension.swift; sourceTree = "<group>"; };
 		8C5977C9A1C4027958A7814A263FD036 /* Pods-FlexibleSteppedProgressBar_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FlexibleSteppedProgressBar_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		AA6A531D69B8C56C34FA7E530B0C756D /* FlexibleSteppedProgressBar-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FlexibleSteppedProgressBar-dummy.m"; sourceTree = "<group>"; };
 		AD22D49A1E4E9769F3053C0B0F3ED189 /* Pods-FlexibleSteppedProgressBar_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FlexibleSteppedProgressBar_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		AFE87E69FC30CF4980B3B84357D323F1 /* FSPBPointExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FSPBPointExtension.swift; path = FlexibleSteppedProgressBar/Classes/FSPBPointExtension.swift; sourceTree = "<group>"; };
-		B5CA97DE62219459AC4B0A9089678937 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		B5CA97DE62219459AC4B0A9089678937 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		B8449CD090C12781FB1AA37A5AD1147C /* FlexibleSteppedProgressBar-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FlexibleSteppedProgressBar-Info.plist"; sourceTree = "<group>"; };
-		BCBEDFE947C9C7B1F5F171951820D937 /* FlexibleSteppedProgressBar.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = FlexibleSteppedProgressBar.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		BDC017B55BD2B7369DFF9096BE9565EC /* Pods-FlexibleSteppedProgressBar_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-FlexibleSteppedProgressBar_Example"; path = Pods_FlexibleSteppedProgressBar_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C58A375EE2A550285AF3AE071225ED96 /* Pods-FlexibleSteppedProgressBar_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-FlexibleSteppedProgressBar_Tests"; path = Pods_FlexibleSteppedProgressBar_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BCBEDFE947C9C7B1F5F171951820D937 /* FlexibleSteppedProgressBar.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = FlexibleSteppedProgressBar.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		BDC017B55BD2B7369DFF9096BE9565EC /* Pods_FlexibleSteppedProgressBar_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FlexibleSteppedProgressBar_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C58A375EE2A550285AF3AE071225ED96 /* Pods_FlexibleSteppedProgressBar_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FlexibleSteppedProgressBar_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D245E0514AAC1A2B9A6D5EA2F383E90F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		D947A914349259740ED5BD95EA91DC01 /* Pods-FlexibleSteppedProgressBar_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FlexibleSteppedProgressBar_Example-umbrella.h"; sourceTree = "<group>"; };
 		DBB189E184802D14D463C469B3A815E3 /* Pods-FlexibleSteppedProgressBar_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FlexibleSteppedProgressBar_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -187,9 +187,9 @@
 		C8E9C7AFA0F878E09732B77AF2E481E8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				114FF158AD91A9968AFFCBF01830B2E8 /* FlexibleSteppedProgressBar */,
-				BDC017B55BD2B7369DFF9096BE9565EC /* Pods-FlexibleSteppedProgressBar_Example */,
-				C58A375EE2A550285AF3AE071225ED96 /* Pods-FlexibleSteppedProgressBar_Tests */,
+				114FF158AD91A9968AFFCBF01830B2E8 /* FlexibleSteppedProgressBar.framework */,
+				BDC017B55BD2B7369DFF9096BE9565EC /* Pods_FlexibleSteppedProgressBar_Example.framework */,
+				C58A375EE2A550285AF3AE071225ED96 /* Pods_FlexibleSteppedProgressBar_Tests.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -282,7 +282,7 @@
 			);
 			name = "Pods-FlexibleSteppedProgressBar_Example";
 			productName = Pods_FlexibleSteppedProgressBar_Example;
-			productReference = BDC017B55BD2B7369DFF9096BE9565EC /* Pods-FlexibleSteppedProgressBar_Example */;
+			productReference = BDC017B55BD2B7369DFF9096BE9565EC /* Pods_FlexibleSteppedProgressBar_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		B04E8566792BB8A5B09C98FD0DDB0025 /* FlexibleSteppedProgressBar */ = {
@@ -300,7 +300,7 @@
 			);
 			name = FlexibleSteppedProgressBar;
 			productName = FlexibleSteppedProgressBar;
-			productReference = 114FF158AD91A9968AFFCBF01830B2E8 /* FlexibleSteppedProgressBar */;
+			productReference = 114FF158AD91A9968AFFCBF01830B2E8 /* FlexibleSteppedProgressBar.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		B7B90962700727EF177E8EE182E2009E /* Pods-FlexibleSteppedProgressBar_Tests */ = {
@@ -319,7 +319,7 @@
 			);
 			name = "Pods-FlexibleSteppedProgressBar_Tests";
 			productName = Pods_FlexibleSteppedProgressBar_Tests;
-			productReference = C58A375EE2A550285AF3AE071225ED96 /* Pods-FlexibleSteppedProgressBar_Tests */;
+			productReference = C58A375EE2A550285AF3AE071225ED96 /* Pods_FlexibleSteppedProgressBar_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -328,8 +328,8 @@
 		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1240;
-				LastUpgradeCheck = 1240;
+				LastSwiftUpdateCheck = 1300;
+				LastUpgradeCheck = 1420;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -422,6 +422,37 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		23243EA5DC73E0306A5B136DBDA23AA8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FFC0B9FF199DF3B46C821C755E64F840 /* FlexibleSteppedProgressBar.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/FlexibleSteppedProgressBar/FlexibleSteppedProgressBar-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FlexibleSteppedProgressBar/FlexibleSteppedProgressBar-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/FlexibleSteppedProgressBar/FlexibleSteppedProgressBar.modulemap";
+				PRODUCT_MODULE_NAME = FlexibleSteppedProgressBar;
+				PRODUCT_NAME = FlexibleSteppedProgressBar;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.1;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 		25AD9454612BF454A1E3DC4CD4FA8C6D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -457,6 +488,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -475,7 +507,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -485,36 +517,6 @@
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
-			};
-			name = Debug;
-		};
-		2754B89D8A262486A3292C96740BD42C /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 14EEFBE21E69DF30E9D929C0CC88B98A /* FlexibleSteppedProgressBar.debug.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/FlexibleSteppedProgressBar/FlexibleSteppedProgressBar-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/FlexibleSteppedProgressBar/FlexibleSteppedProgressBar-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/FlexibleSteppedProgressBar/FlexibleSteppedProgressBar.modulemap";
-				PRODUCT_MODULE_NAME = FlexibleSteppedProgressBar;
-				PRODUCT_NAME = FlexibleSteppedProgressBar;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
@@ -533,7 +535,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-FlexibleSteppedProgressBar_Tests/Pods-FlexibleSteppedProgressBar_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-FlexibleSteppedProgressBar_Tests/Pods-FlexibleSteppedProgressBar_Tests.modulemap";
@@ -566,7 +568,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-FlexibleSteppedProgressBar_Example/Pods-FlexibleSteppedProgressBar_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-FlexibleSteppedProgressBar_Example/Pods-FlexibleSteppedProgressBar_Example.modulemap";
@@ -598,7 +600,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-FlexibleSteppedProgressBar_Example/Pods-FlexibleSteppedProgressBar_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-FlexibleSteppedProgressBar_Example/Pods-FlexibleSteppedProgressBar_Example.modulemap";
@@ -651,6 +653,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -666,21 +669,20 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
 		};
-		E6F664046953BFAE754D4CBF0D7E4404 /* Release */ = {
+		D2FCC3FF9B6AD100B7D3A053FE7915F1 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FFC0B9FF199DF3B46C821C755E64F840 /* FlexibleSteppedProgressBar.release.xcconfig */;
+			baseConfigurationReference = 14EEFBE21E69DF30E9D929C0CC88B98A /* FlexibleSteppedProgressBar.debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -693,7 +695,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/FlexibleSteppedProgressBar/FlexibleSteppedProgressBar-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/FlexibleSteppedProgressBar/FlexibleSteppedProgressBar-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/FlexibleSteppedProgressBar/FlexibleSteppedProgressBar.modulemap";
 				PRODUCT_MODULE_NAME = FlexibleSteppedProgressBar;
@@ -701,13 +703,12 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 5.1;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
 		FF83680A2F9E9BC1144C92E4E6D01A5D /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -724,7 +725,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-FlexibleSteppedProgressBar_Tests/Pods-FlexibleSteppedProgressBar_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-FlexibleSteppedProgressBar_Tests/Pods-FlexibleSteppedProgressBar_Tests.modulemap";
@@ -756,8 +757,8 @@
 		965C9C487F002E0645D4D35A7EC118A9 /* Build configuration list for PBXNativeTarget "FlexibleSteppedProgressBar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2754B89D8A262486A3292C96740BD42C /* Debug */,
-				E6F664046953BFAE754D4CBF0D7E4404 /* Release */,
+				D2FCC3FF9B6AD100B7D3A053FE7915F1 /* Debug */,
+				23243EA5DC73E0306A5B136DBDA23AA8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
